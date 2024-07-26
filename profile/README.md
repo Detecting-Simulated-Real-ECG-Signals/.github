@@ -1,6 +1,6 @@
 # Master Thesis: Feasibility of Deep Learning-based Methods for the Classification of Real and Simulated Electrocardiogram Signals
 
-Welcome to the official GitHub organization for my master's thesis work. This organization hosts all the code developed during my research on the feasibility of deep learning-based methods for classifying real and simulated electrocardiogram (ECG) signals. Below you will find the details of the three repositories that constitute the core of this work.
+Welcome to the official GitHub organization for my master's thesis work. This organization hosts all the code developed during my research on the feasibility of deep learning-based methods for classifying real and simulated electrocardiogram (ECG) signals. My thesis is publicly available through the xAI Chair's webpage at [xAI Chair's Thesis Archive](https://www.uni-bamberg.de/xai/studium/abschlussarbeiten/).
 
 Repositories:
 
