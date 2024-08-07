@@ -22,6 +22,9 @@ Repositories:
         * Implementation of various deep learning architectures for ECG classification.
         * Training scripts with hyperparameter tuning options.
         * Testing and evaluation scripts to assess model performance.
+
+4. [Arteficial Signals](https://github.com/Detecting-Simulated-Real-ECG-Signals/Artificial-Signals): Repository contains the artificial signals recorded during the master thesis.
+     
         
 Feel free to explore the repositories to learn more about the methodologies and implementations used in this research. Contributions and feedback are welcome. Thank you for your interest in my work!
 
